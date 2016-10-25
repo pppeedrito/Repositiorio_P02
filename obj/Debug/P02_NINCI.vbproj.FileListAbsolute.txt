@@ -1,0 +1,11 @@
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\bin\Debug\P02_NINCI.exe.config
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\bin\Debug\P02_NINCI.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\bin\Debug\P02_NINCI.pdb
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\bin\Debug\P02_NINCI.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.vbprojResolveAssemblyReference.cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.Form1.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.Resources.resources
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.vbproj.GenerateResource.Cache
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.exe
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.xml
+C:\Users\Sr_Pedro\Documents\Visual Studio 2015\Projects\P02_NINCI\P02_NINCI\obj\Debug\P02_NINCI.pdb
